@@ -1,0 +1,17 @@
+{
+  "network": "testnet",
+  "owner": "0x581f7a81a582b72d1212c7ba7806fa3cc99c1466c8ef403456d0ad0ec4311ebf",
+  "site_name": "react-spa",
+  "metadata": {
+    "link": "",
+    "image_url": "",
+    "name": "react-spa",
+    "description": "A demo for a dApp on Walrus Sites, with minting and per-NFT sites.",
+    "project_url": "https://github.com/MystenLabs/example-walrus-sites",
+    "creator": ""
+  },
+  "epochs": 10,
+  "path": "./dist",
+  "gas_budget": 100000000,
+  "write_retry_limit": 20
+}
