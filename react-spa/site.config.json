@@ -1,6 +1,6 @@
 {
-  "network": "testnet",
-  "owner": "0x581f7a81a582b72d1212c7ba7806fa3cc99c1466c8ef403456d0ad0ec4311ebf",
+  "network": "mainnet",
+  "owner": "0xac3d95310e43ca55ed7a5c4bbd0b07b35fb8cbbba3cd0a12d8919e2ccddd9af2",
   "site_name": "react-spa",
   "metadata": {
     "link": "",
